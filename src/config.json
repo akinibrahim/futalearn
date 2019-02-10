@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.moodle.futalearn",
     "appname": "FUTALEARN",
     "desktopappname": "FUTA LEARN",
     "versioncode": 3600,
@@ -54,7 +54,7 @@
     "wsextservice": "local_mobile",
     
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "futalearn",
     "siteurl": "https://learn.futa.edu.ng/",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
