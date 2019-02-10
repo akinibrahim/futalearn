@@ -6,14 +6,14 @@
         versionCode = "36000"
         android-versionCode="36000"
         version   = "3.6.0">
-    <name>Moodle</name>
+    <name>FUTALearn</name>
 
     <description>
-        Moodle official app
+       FUTA LEARN APP
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        FUTA LEARN
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
@@ -68,8 +68,8 @@
     <preference name="AndroidPersistentFileLocation"    value="Compatibility" />
     <preference name="iosPersistentFileLocation"        value="Compatibility" />
 
-    <icon src="icon.png" />
-    <gap:splash src="splash.png" />
+    <icon src="resources/android/icon.png" />
+    <gap:splash src="resources/splash.png" />
 
     <platform name="android">
         <icon src="resources/android/icon/drawable-ldpi-icon.png" density="ldpi"/>
