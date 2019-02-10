@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.futalearn"
+        id        = "com.moodle.moodlemobile"
         versionCode = "36000"
         android-versionCode="36000"
         version   = "3.6.0">
-    <name>FUTALearn</name>
+    <name>Moodle</name>
 
     <description>
-       FUTA LEARN APP
+        Moodle official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        FUTA LEARN
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
@@ -68,8 +68,8 @@
     <preference name="AndroidPersistentFileLocation"    value="Compatibility" />
     <preference name="iosPersistentFileLocation"        value="Compatibility" />
 
-    <icon src="resources/android/icon.png" />
-    <gap:splash src="resources/splash.png" />
+    <icon src="icon.png" />
+    <gap:splash src="splash.png" />
 
     <platform name="android">
         <icon src="resources/android/icon/drawable-ldpi-icon.png" density="ldpi"/>
