@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.6.0",
-  "description": "The official app for Moodle.",
+  "name": "futalearn",
+  "version": "6.1.2",
+  "description": "The official app for FUTA LEARN",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "FUTA BLRG",
+    "email": "aimakinde@futa.edu.ng"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/akinibrahim/futalearn.git"
   },
   "license": "Apache-2.0",
   "licenses": [
@@ -177,7 +177,7 @@
   "main": "desktop/electron.js",
   "build": {
     "appId": "com.moodle.moodledesktop",
-    "productName": "Moodle Desktop",
+    "productName": "FUTA MOBILE",
     "files": [
       "desktop/electron.js",
       "www/**/*",
