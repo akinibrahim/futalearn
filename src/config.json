@@ -52,10 +52,21 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    
+      "demo_sites": {
+        "student": {
+            "url": "https:\/\/learn.futa.edu.ng",
+            "username": "student",
+            "password": "moodle"
+        },
+        "teacher": {
+            "url": "https:\/\/learn.futa.edu.ng",
+            "username": "teacher",
+            "password": "moodle"
+        }
+    },
     "gcmpn": "694767596569",
     "customurlscheme": "futalearn",
-    "siteurl": "https://learn.futa.edu.ng/",
+    "siteurl": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
