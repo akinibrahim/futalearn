@@ -176,7 +176,7 @@
   },
   "main": "desktop/electron.js",
   "build": {
-    "appId": "com.futamoodle.futalearndesktop",
+    "appId": "com.moodle.moodlemobile",
     "productName": "FUTA MOBILE",
     "files": [
       "desktop/electron.js",
