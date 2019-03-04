@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.futamoodle.futalearn"
+        id        = "com.moodle.moodlemobile"
         versionCode = "3600"
         android-versionCode="3600"
         version   = "3.6.0">
